@@ -6,3 +6,4 @@ GAME RULES:
 - The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
 - The first player to reach 50 points on GLOBAL score wins the game
 https://mostafahussien19.github.io/roll-or-die/
+note: that website hasn't responsive yet
