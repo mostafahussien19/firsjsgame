@@ -7,3 +7,4 @@ GAME RULES:
 - The first player to reach 50 points on GLOBAL score wins the game
 https://mostafahussien19.github.io/roll-or-die/
 note: that website hasn't responsive yet
+version 1
